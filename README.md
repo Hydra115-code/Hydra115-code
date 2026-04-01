@@ -1,5 +1,5 @@
 # About Me:
-Hola, soy Erick Martinez 👋<br>Soy estudiante de 6to semestre de Ingeniería en Sistemas, un apasionado por el desarrollo de software y la resolución de problemas a través de la tecnología. Disfruto explorando desde el diseño de interfaces hasta la implementación de inteligencia artificial para crear herramientas que tengan un impacto positivo y práctico en la vida de las personas.<br><br>Actualmente, compagino mi carrera universitaria con el estudio continuo en áreas como Front-end, Back-end (Python), diseño UX/UI, Prompt Engineering y soporte TI.
+Hola, soy Erick Martinez 👋<br>Soy estudiante  de Ingeniería en Sistemas, un apasionado por el desarrollo de software y la resolución de problemas a través de la tecnología. Disfruto explorando desde el diseño de interfaces hasta la implementación de inteligencia artificial para crear herramientas que tengan un impacto positivo y práctico en la vida de las personas.<br><br>Actualmente, compagino mi carrera universitaria con el estudio continuo en áreas como Front-end, Back-end (Python), diseño UX/UI, Prompt Engineering y soporte TI.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shadowm115)
