@@ -80,6 +80,5 @@ full stack
 
 <div align="center">
 
-`erk // online`
 
 </div>
