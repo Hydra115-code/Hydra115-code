@@ -58,6 +58,14 @@ Currently learning and building around:
 
 ---
 
+### cloud & devops
+
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=flat&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=white)
+
 ## current focus
 
 ```text
