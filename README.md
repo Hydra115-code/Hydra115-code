@@ -2,7 +2,6 @@
 <div align="center">
   <img src="./erk-cat.svg" width="100%" alt="erk" />
 </div>
-# erk
 
 `software development / cloud / security`
 
