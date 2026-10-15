@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="./erk-cat.svg" width="100%" alt="erk" />
+  <img src="./erk-matrix.svg" width="100%" alt="erk" />
 </div>
 
 `software development / cloud / security`
