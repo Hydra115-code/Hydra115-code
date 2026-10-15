@@ -3,8 +3,6 @@
   <img src="./erk-matrix.svg" width="100%" alt="erk" />
 </div>
 
-`software development / cloud / security`
-
 [![Discord](https://img.shields.io/badge/discord-shadowm115-111111?style=flat&logo=discord&logoColor=white)](https://discord.gg/shadowm115)
 
 </div>
